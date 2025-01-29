@@ -1,5 +1,4 @@
 import numpy as np
-import numpy as np
 
 count = 0
 mult = []
